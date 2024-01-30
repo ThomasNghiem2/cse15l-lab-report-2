@@ -10,8 +10,8 @@ The `handleRequest` method is called once again. The `String str` field of this 
 * Private key absolute path
 ![Image](SSH-Private-Key.png) <br>
 * Public key absolute path
-![Image](SSH-Public-Key.png) <br>
+![Image](SSH-Public-Key-Fixed.png) <br>
 * Login
 ![Image](login-without-password.png) <br>
 ## Part 3
-
+Most of what we did in lab was new to me. First, I learned how to use ssh to connect to a server. Then, I learned how to run a server on my own computer, and this was cool to learn. Using this, I also learned how to work with the `URLHandler` interface, which we used to make the webserver `ChatServer`. 
