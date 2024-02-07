@@ -8,9 +8,9 @@ The `handleRequest` method is called, which acts according to the structure of t
 The `handleRequest` method is called once again. The `String str` field of this `Handler` class already contains the returned value from the method's first run. As the method runs again with the `url` of `http://localhost:4001:/add-message?s=how%20are%20you&user=not_thomas`, the value of `str` changes to add `"not_thomas: how are you"` on a new line after `"thomas: hi"`.
 ## Part 2
 * Private key absolute path
-![Image](SSH-Private-Key.png) <br>
+![Image](SSH-Private-Key-Fixed.png) <br>
 * Public key absolute path
-![Image](SSH-Public-Key-Fixed.png) <br>
+![Image](SSH-Public-Key-Fixed2.png) <br>
 * Login
 ![Image](login-without-password.png) <br>
 ## Part 3
